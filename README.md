@@ -1,7 +1,7 @@
 ## Hi, I'm Sahenul Islam
 #### I am an deep learning enthusiast and a competitive programmer.
 * I'm working as a competitive programming trainer.
-* Inter University Programming Contest participate 5 times Champion 3 time.
+* BUBT Inter University Programming Contest participate 5 times Champion 3 time.
 * Participate 5 Intra University Programming Contest (IUPC) & 2 ICPC.
 * I’m currently working on Student. 
 * I’m currently learning Problem Solving.
